@@ -15,6 +15,7 @@ public class App {
 
     int[] pole = new int[10];
 
-
+        String helpIdontUnderstand = "lol";
     }
+
 }
