@@ -5,5 +5,16 @@ public class App {
     int celeCislo;
     long celeVacsieCislo;
     float desatineCislo;
+    int coslo = 1;
+    if (coslo == 1){
+        System.out.println("JeNula");
+    }
+    else{
+        System.out.println("neni");
+    }
+
+    int[] pole = new int[10];
+
+
     }
 }
